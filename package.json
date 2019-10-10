@@ -1,6 +1,6 @@
 {
   "name": "@ryanburnette/badges",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A strategy for generating badges in your library readme.",
   "main": "index.js",
   "bin": {
