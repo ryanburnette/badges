@@ -11,7 +11,7 @@ strategy is to link the package name and to add two badges, one for the
 repository and one for the NPM package.
 
 ```bash
-npm install -g badges
+npm install -g @ryanburnette/badges
 cd my-project-dir
 badges
 ```
